@@ -3,3 +3,5 @@
 Python
 
 Frontend Technologies
+
+SQL
